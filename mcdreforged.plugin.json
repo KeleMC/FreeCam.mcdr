@@ -1,0 +1,11 @@
+{
+    "id": "free_cam",
+    "version": "1.0.0",
+    "name": "FreeCam",
+    "description": "FreeCam Spectator plugin for MCDR",
+    "author": "Kelegele",
+    "link": "https://github.com/KeleMC/FreeCam",
+    "dependencies": {
+        "minecraft_data_api": "*"
+    }
+}
